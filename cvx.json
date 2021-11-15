@@ -1,0 +1,1851 @@
+       [
+          {
+             "ShortDescription": "Adenovirus types 4 and 7",
+             "FullVaccinename": "Adenovirus, type 4 and type 7, live, oral",
+             "CVXCode": "143",
+             "Notes": "This vaccine is administered as 2 tablets.",
+             "Status": "Active",
+             "LastUpdated": "3/20/2011"
+          },
+          {
+             "ShortDescription": "adenovirus, type 4",
+             "FullVaccinename": "adenovirus vaccine, type 4, live, oral",
+             "CVXCode": "54",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "adenovirus, type 7",
+             "FullVaccinename": "adenovirus vaccine, type 7, live, oral",
+             "CVXCode": "55",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "adenovirus, unspecified formulation",
+             "FullVaccinename": "adenovirus vaccine, unspecified formulation",
+             "CVXCode": "82",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a adenovirus vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "anthrax",
+             "FullVaccinename": "anthrax vaccine",
+             "CVXCode": "24",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "6/11/2019"
+          },
+          {
+             "ShortDescription": "BCG",
+             "FullVaccinename": "Bacillus Calmette-Guerin vaccine",
+             "CVXCode": "19",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "cholera, BivWC",
+             "FullVaccinename": "cholera, BivWC",
+             "CVXCode": "173",
+             "Notes": "",
+             "Status": "Non-US",
+             "LastUpdated": "6/17/2016"
+          },
+          {
+             "ShortDescription": "cholera, live attenuated",
+             "FullVaccinename": "cholera, live attenuated",
+             "CVXCode": "174",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "6/17/2016"
+          },
+          {
+             "ShortDescription": "cholera, unspecified formulation",
+             "FullVaccinename": "cholera vaccine, unspecified formulation",
+             "CVXCode": "26",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "6/17/2016"
+          },
+          {
+             "ShortDescription": "cholera, WC-rBS",
+             "FullVaccinename": "cholera, WC-rBS",
+             "CVXCode": "172",
+             "Notes": "",
+             "Status": "Non-US",
+             "LastUpdated": "6/17/2016"
+          },
+          {
+             "ShortDescription": "COVID-19 IV Non-US Vaccine (BIBP, Sinopharm)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (BIBP, Sinopharm)",
+             "CVXCode": "510",
+             "Notes": "WHO authorized pandemic vaccine.  Recognized towards immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 IV Non-US Vaccine (CoronaVac, Sinovac)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (CoronaVac, Sinovac)",
+             "CVXCode": "511",
+             "Notes": "WHO authorized pandemic vaccine.  Recognized towards immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 IV Non-US Vaccine (COVAXIN)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (COVAXIN)",
+             "CVXCode": "502",
+             "Notes": "Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 IV Non-US Vaccine (QAZCOVID-IN)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Inactivated Virus Non-US Vaccine Product (QAZCOVID-IN)",
+             "CVXCode": "501",
+             "Notes": "Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 LAV Non-US Vaccine (COVIVAC)",
+             "FullVaccinename": "SARS-COV-2 COVID-19  Live Attenuated Virus Non-US Vaccine Product (COVIVAC)",
+             "CVXCode": "503",
+             "Notes": "Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 Non-US Vaccine, Product Unknown",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Non-US Vaccine, Specific Product Unknown",
+             "CVXCode": "500",
+             "Notes": "Pandemic Non-US Covid Administration - specific CVX or product unknown",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 PS Non-US Vaccine (Anhui Zhifei Longcom Biopharm + Inst of Micro, Chinese Acad of Sciences)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (Anhui Zhifei Longcom Biopharmaceutical + Institute of Microbiology, Chinese Academy of Sciences)",
+             "CVXCode": "507",
+             "Notes": "Pandemic Non-US Vaccine not Authorized by WHO - not counted toward immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "8/18/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 PS Non-US Vaccine (EpiVacCorona)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product (EpiVacCorona)",
+             "CVXCode": "509",
+             "Notes": "Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 PS Non-US Vaccine (Jiangsu Province Centers for Disease Control and Prevention)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Protein Subunit Non-US Vaccine Product  (Jiangsu Province Centers for Disease Control and Prevention)",
+             "CVXCode": "508",
+             "Notes": "Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 vaccine, Subunit, rS-nanoparticle+Matrix-M1 Adjuvant, PF, 0.5 mL",
+             "FullVaccinename": "SARS-COV-2 (COVID-19) vaccine, Subunit, recombinant spike protein-nanoparticle+Matrix-M1 Adjuvant, preservative free, 0.5mL per dose",
+             "CVXCode": "211",
+             "Notes": "Potential FDA EUA Authorization",
+             "Status": "Pending",
+             "LastUpdated": "9/8/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 vaccine, vector-nr, rS-Ad26, PF, 0.5 mL",
+             "FullVaccinename": "SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL",
+             "CVXCode": "212",
+             "Notes": "FDA EUA 02/27/2021, 1-dose vaccine. Used to record Janssen/J&J vaccines administered in the US and in non-US locations",
+             "Status": "Active",
+             "LastUpdated": "9/8/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 vaccine, vector-nr, rS-ChAdOx1, PF, 0.5 mL",
+             "FullVaccinename": "SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-ChAdOx1, preservative free, 0.5 mL",
+             "CVXCode": "210",
+             "Notes": "Potential FDA EUA, 2-dose vaccine. AstraZeneca vaccine is authorized by the WHO and recognized towards immunity in the US. Non-US WHO authorized tradenames/identifiers include VAXZEVRIA, AZD1222, ChAdOx1 nCoV-19, COVISHIELD",
+             "Status": "Non-US",
+             "LastUpdated": "9/8/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 VVnr Non-US Vaccine (CanSino Biological Inc./Beijing Institute of Biotechnology)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Viral Vector Non-replicating Non-US Vaccine Product (CanSino Biological Inc./Beijing Institute of Biotechnology)",
+             "CVXCode": "506",
+             "Notes": "Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 VVnr Non-US Vaccine (Sputnik Light)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Viral Vector Non-replicating Non-US Vaccine Product (Sputnik Light)",
+             "CVXCode": "504",
+             "Notes": "Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19 VVnr Non-US Vaccine (Sputnik V)",
+             "FullVaccinename": "SARS-COV-2 COVID-19 Viral Vector Non-replicating Non-US Vaccine Product (Sputnik V)",
+             "CVXCode": "505",
+             "Notes": "Pandemic Non-US Vaccine not Authorized by WHO - not counted toward  immunity in US",
+             "Status": "Non-US",
+             "LastUpdated": "7/15/2021"
+          },
+          {
+             "ShortDescription": "COVID-19, mRNA, LNP-S, PF, 10 mcg/0.2 mL dose, tris-sucrose",
+             "FullVaccinename": "SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 10 mcg/0.2mL dose, tris-sucrose formulation",
+             "CVXCode": "218",
+             "Notes": "Potential FDA EUA, Pfizer tris-sucrose vaccine for 5 through 11 years of age",
+             "Status": "Active",
+             "LastUpdated": "9/13/2021"
+          },
+          {
+             "ShortDescription": "COVID-19, mRNA, LNP-S, PF, 100 mcg or 50 mcg dose",
+             "FullVaccinename": "SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg or 50 mcg dose",
+             "CVXCode": "207",
+             "Notes": "FDA EUA 12/18/2020, 2-dose vaccine.  Used to record Moderna vaccines administered in the US and in non-US locations (includes tradename Spikevax)",
+             "Status": "Active",
+             "LastUpdated": "9/8/2021"
+          },
+          {
+             "ShortDescription": "COVID-19, mRNA, LNP-S, PF, 3 mcg/0.2 mL dose, tris-sucrose",
+             "FullVaccinename": "SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 3 mcg/0.2mL dose, tris-sucrose formulation",
+             "CVXCode": "219",
+             "Notes": "Potential FDA EUA, Pfizer tris-sucrose vaccine for 2 through 4  years of age",
+             "Status": "Active",
+             "LastUpdated": "9/8/2021"
+          },
+          {
+             "ShortDescription": "COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose",
+             "FullVaccinename": "SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose",
+             "CVXCode": "208",
+             "Notes": "FDA BLA 08/23/2021 for adult dose (16+ years). Still under EUA for adolescent doses and presentations. EUA 12/11/2020, 2-dose vaccine. Used to record Pfizer vaccines administered in the US and in non-US locations (includes tradename Comirnaty)",
+             "Status": "Active",
+             "LastUpdated": "9/10/2021"
+          },
+          {
+             "ShortDescription": "COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose, tris-sucrose",
+             "FullVaccinename": "SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose, tris-sucrose formulation",
+             "CVXCode": "217",
+             "Notes": "Potential FDA EUA, Pfizer tris-sucrose formuation vaccine for ages 12 and older",
+             "Status": "Active",
+             "LastUpdated": "9/13/2021"
+          },
+          {
+             "ShortDescription": "dengue fever",
+             "FullVaccinename": "dengue fever vaccine",
+             "CVXCode": "56",
+             "Notes": "Applies to dengue tetravalent product (e.g. DENGVAXIA)",
+             "Status": "Active",
+             "LastUpdated": "9/24/2019"
+          },
+          {
+             "ShortDescription": "DT (pediatric)",
+             "FullVaccinename": "diphtheria and tetanus toxoids, adsorbed for pediatric use",
+             "CVXCode": "28",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "DT, IPV adsorbed",
+             "FullVaccinename": "Diphtheria, Tetanus, Poliomyelitis adsorbed",
+             "CVXCode": "195",
+             "Notes": "This code should be used to document non-US vaccines for DT,IPV such as Revaxis",
+             "Status": "Non-US",
+             "LastUpdated": "7/30/2019"
+          },
+          {
+             "ShortDescription": "DTaP",
+             "FullVaccinename": "diphtheria, tetanus toxoids and acellular pertussis vaccine",
+             "CVXCode": "20",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "DTaP, 5 pertussis antigens",
+             "FullVaccinename": "diphtheria, tetanus toxoids and acellular pertussis vaccine, 5 pertussis antigens",
+             "CVXCode": "106",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "DTaP, unspecified formulation",
+             "FullVaccinename": "diphtheria, tetanus toxoids and acellular pertussis vaccine, unspecified formulation",
+             "CVXCode": "107",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a DTaP vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "DTaP,IPV,Hib,HepB",
+             "FullVaccinename": "Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate (Meningococcal Protein Conjugate), and Hepatitis B (Recombinant) Vaccine.",
+             "CVXCode": "146",
+             "Notes": "Note that this vaccine is different from CVX 132.",
+             "Status": "Active",
+             "LastUpdated": "5/2/2019"
+          },
+          {
+             "ShortDescription": "DTaP-Hep B-IPV",
+             "FullVaccinename": "DTaP-hepatitis B and poliovirus vaccine",
+             "CVXCode": "110",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "DTaP-Hib",
+             "FullVaccinename": "DTaP-Haemophilus influenzae type b conjugate vaccine",
+             "CVXCode": "50",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "3/20/2017"
+          },
+          {
+             "ShortDescription": "DTaP-Hib-IPV",
+             "FullVaccinename": "diphtheria, tetanus toxoids and acellular pertussis vaccine, Haemophilus influenzae type b conjugate, and poliovirus vaccine, inactivated (DTaP-Hib-IPV)",
+             "CVXCode": "120",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "DTaP-IPV",
+             "FullVaccinename": "Diphtheria, tetanus toxoids and acellular pertussis vaccine, and poliovirus vaccine, inactivated",
+             "CVXCode": "130",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "DTaP-IPV-HIB-HEP B, historical",
+             "FullVaccinename": "Historical diphtheria and tetanus toxoids and acellular pertussis, poliovirus, Haemophilus b conjugate and hepatitis B (recombinant) vaccine.",
+             "CVXCode": "132",
+             "Notes": "This is not the same as CVX 146, Hexavalent vaccine.",
+             "Status": "Inactive",
+             "LastUpdated": "5/10/2018"
+          },
+          {
+             "ShortDescription": "DTAP/IPV/HIB - non-US",
+             "FullVaccinename": "non-US diphtheria, tetanus toxoids and acellular pertussis vaccine, Haemophilus influenzae type b conjugate, and poliovirus vaccine, inactivated (DTaP-Hib-IPV)",
+             "CVXCode": "170",
+             "Notes": "This CVX was split off from CVX 102, to correctly identify the contents of the vaccine.",
+             "Status": "Non-US",
+             "LastUpdated": "5/20/2016"
+          },
+          {
+             "ShortDescription": "DTP",
+             "FullVaccinename": "diphtheria, tetanus toxoids and pertussis vaccine",
+             "CVXCode": "01",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "DTP-hepB-Hib Pentavalent Non-US",
+             "FullVaccinename": "Diphtheria, pertussis, tetanus, hepatitis B, Haemophilus Influenza Type b, (Pentavalent)",
+             "CVXCode": "198",
+             "Notes": "This represents the non-US pentavalent vaccine.  Should be used for historic documentation in US",
+             "Status": "Non-US",
+             "LastUpdated": "4/22/2020"
+          },
+          {
+             "ShortDescription": "DTP-Hib",
+             "FullVaccinename": "DTP-Haemophilus influenzae type b conjugate vaccine",
+             "CVXCode": "22",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "3/23/2017"
+          },
+          {
+             "ShortDescription": "DTP-Hib-Hep B",
+             "FullVaccinename": "DTP- Haemophilus influenzae type b conjugate and hepatitis b vaccine",
+             "CVXCode": "102",
+             "Notes": "This CVX has been corrected. This non-US vaccine contained DTP, Hib and Hep B. It was withdrawn in 2007 .",
+             "Status": "Non-US",
+             "LastUpdated": "5/20/2016"
+          },
+          {
+             "ShortDescription": "Ebola Zaire vaccine, live, recombinant, 1mL dose",
+             "FullVaccinename": "Ebola Zaire vaccine, live, recombinant, 1mL dose",
+             "CVXCode": "204",
+             "Notes": "FDA Approval Pending",
+             "Status": "Active",
+             "LastUpdated": "4/6/2021"
+          },
+          {
+             "ShortDescription": "Ebola, unspecified",
+             "FullVaccinename": "Ebola, unspecified",
+             "CVXCode": "214",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "4/6/2021"
+          },
+          {
+             "ShortDescription": "hantavirus",
+             "FullVaccinename": "hantavirus vaccine",
+             "CVXCode": "57",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "Hep A, adult",
+             "FullVaccinename": "hepatitis A vaccine, adult dosage",
+             "CVXCode": "52",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Hep A, live attenuated",
+             "FullVaccinename": "Hep A, live attenuated-IM",
+             "CVXCode": "169",
+             "Notes": "This vaccine is not available in the US.",
+             "Status": "Non-US",
+             "LastUpdated": "5/10/2016"
+          },
+          {
+             "ShortDescription": "Hep A, ped/adol, 2 dose",
+             "FullVaccinename": "hepatitis A vaccine, pediatric/adolescent dosage, 2 dose schedule",
+             "CVXCode": "83",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Hep A, ped/adol, 3 dose",
+             "FullVaccinename": "hepatitis A vaccine, pediatric/adolescent dosage, 3 dose schedule",
+             "CVXCode": "84",
+             "Notes": "This vaccine formulation is inactive and should not be used, except to record historic vaccinations with this formulation.",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Hep A, pediatric, unspecified formulation",
+             "FullVaccinename": "hepatitis A vaccine, pediatric dosage, unspecified formulation",
+             "CVXCode": "31",
+             "Notes": "Do NOT use this code.  If formulation is unknown, use CVX 85.  There is only one formulation of Hep A, peds.",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "Hep A, unspecified formulation",
+             "FullVaccinename": "hepatitis A vaccine, unspecified formulation",
+             "CVXCode": "85",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HepA vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "Hep A-Hep B",
+             "FullVaccinename": "hepatitis A and hepatitis B vaccine",
+             "CVXCode": "104",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Hep A-Hep B, pediatric/adolescent",
+             "FullVaccinename": "hepatitis A and hepatitis B vaccine, pediatric/adolescent (non-US)",
+             "CVXCode": "193",
+             "Notes": "e.g. Twinrix Junior available in Canada",
+             "Status": "Non-US",
+             "LastUpdated": "8/21/2018"
+          },
+          {
+             "ShortDescription": "Hep B, adolescent or pediatric",
+             "FullVaccinename": "hepatitis B vaccine, pediatric or pediatric/adolescent dosage",
+             "CVXCode": "08",
+             "Notes": "This code applies to any standard pediatric formulation of Hepatitis B vaccine. It should not be used for the 2-dose hepatitis B schedule for adolescents (11-15 year olds). It requires Merck's Recombivax HB adult formulation. Use code 43 for that vaccine.",
+             "Status": "Active",
+             "LastUpdated": "5/10/2018"
+          },
+          {
+             "ShortDescription": "Hep B, adolescent/high risk infant",
+             "FullVaccinename": "hepatitis B vaccine, adolescent/high risk infant dosage",
+             "CVXCode": "42",
+             "Notes": "As of August 27, 1998, Merck ceased distribution of their adolescent/high risk infant hepatitis B vaccine dosage. Code 42 should only be used to record historical records. For current administration of hepatitis B vaccine, pediatric/adolescent dosage, use code 08.",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Hep B, adult",
+             "FullVaccinename": "hepatitis B vaccine, adult dosage",
+             "CVXCode": "43",
+             "Notes": "As of September 1999, a 2-dose hepatitis B schedule for adolescents (11-15 year olds) was FDA approved for Merck's Recombivax HB adult formulation. Use code 43 for the 2-dose. This code should be used for any use of standard adult formulation of hepatitis B vaccine.",
+             "Status": "Active",
+             "LastUpdated": "5/10/2018"
+          },
+          {
+             "ShortDescription": "Hep B, dialysis",
+             "FullVaccinename": "hepatitis B vaccine, dialysis patient dosage",
+             "CVXCode": "44",
+             "Notes": "NDCs that are used for both vaccine and dialysis (e.g. Engerix-B)  are mapped to CVX 43 which is not specific to dialysis use",
+             "Status": "Active",
+             "LastUpdated": "5/8/2019"
+          },
+          {
+             "ShortDescription": "Hep B, unspecified formulation",
+             "FullVaccinename": "hepatitis B vaccine, unspecified formulation",
+             "CVXCode": "45",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HepB vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "Hep C",
+             "FullVaccinename": "hepatitis C vaccine",
+             "CVXCode": "58",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "Hep E",
+             "FullVaccinename": "hepatitis E vaccine",
+             "CVXCode": "59",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "HepB-CpG",
+             "FullVaccinename": "Hepatitis B vaccine (recombinant), CpG adjuvanted",
+             "CVXCode": "189",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/10/2018"
+          },
+          {
+             "ShortDescription": "herpes simplex 2",
+             "FullVaccinename": "herpes simplex virus, type 2 vaccine",
+             "CVXCode": "60",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "Hib (HbOC)",
+             "FullVaccinename": "Haemophilus influenzae type b vaccine, HbOC conjugate",
+             "CVXCode": "47",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Hib (PRP-D)",
+             "FullVaccinename": "Haemophilus influenzae type b vaccine, PRP-D conjugate",
+             "CVXCode": "46",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Hib (PRP-OMP)",
+             "FullVaccinename": "Haemophilus influenzae type b vaccine, PRP-OMP conjugate",
+             "CVXCode": "49",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Hib (PRP-T)",
+             "FullVaccinename": "Haemophilus influenzae type b vaccine, PRP-T conjugate",
+             "CVXCode": "48",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Hib, unspecified formulation",
+             "FullVaccinename": "Haemophilus influenzae type b vaccine, conjugate unspecified formulation",
+             "CVXCode": "17",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "Hib-Hep B",
+             "FullVaccinename": "Haemophilus influenzae type b conjugate and Hepatitis B vaccine",
+             "CVXCode": "51",
+             "Notes": "This vaccine may still be in use until the existing lots expire on 8/19/16.",
+             "Status": "Inactive",
+             "LastUpdated": "3/11/2016"
+          },
+          {
+             "ShortDescription": "HIV",
+             "FullVaccinename": "human immunodeficiency virus vaccine",
+             "CVXCode": "61",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "HPV, bivalent",
+             "FullVaccinename": "human papilloma virus vaccine, bivalent",
+             "CVXCode": "118",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "HPV, quadrivalent",
+             "FullVaccinename": "human papilloma virus vaccine, quadrivalent",
+             "CVXCode": "62",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "6/2/2020"
+          },
+          {
+             "ShortDescription": "HPV, unspecified formulation",
+             "FullVaccinename": "HPV, unspecified formulation",
+             "CVXCode": "137",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HPV vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "HPV9",
+             "FullVaccinename": "Human Papillomavirus 9-valent vaccine",
+             "CVXCode": "165",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "12/11/2014"
+          },
+          {
+             "ShortDescription": "Influenza A monovalent (H5N1), ADJUVANTED-2013",
+             "FullVaccinename": "Influenza A monovalent (H5N1), adjuvanted, National stockpile 2013",
+             "CVXCode": "160",
+             "Notes": "Approved by FDA 2013, adjuvant is mixed at point of administration.",
+             "Status": "Active",
+             "LastUpdated": "5/27/2014"
+          },
+          {
+             "ShortDescription": "influenza nasal, unspecified formulation",
+             "FullVaccinename": "influenza nasal, unspecified formulation",
+             "CVXCode": "151",
+             "Notes": "This CVX should only be used for historical records where the formulation of nasal flu vaccine is not known.",
+             "Status": "Inactive",
+             "LastUpdated": "1/28/2013"
+          },
+          {
+             "ShortDescription": "Influenza vaccine, quadrivalent, adjuvanted",
+             "FullVaccinename": "influenza, seasonal vaccine, quadrivalent, adjuvanted, .5mL dose, preservative free",
+             "CVXCode": "205",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "7/22/2020"
+          },
+          {
+             "ShortDescription": "influenza, H5N1-1203",
+             "FullVaccinename": "influenza virus vaccine, H5N1, A/Vietnam/1203/2004 (national stockpile)",
+             "CVXCode": "123",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Influenza, high dose seasonal",
+             "FullVaccinename": "influenza, high dose seasonal, preservative-free",
+             "CVXCode": "135",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "influenza, high-dose, quadrivalent",
+             "FullVaccinename": "influenza, high-dose seasonal, quadrivalent, .7mL dose, preservative free",
+             "CVXCode": "197",
+             "Notes": "Target population 65 and older, starting season 2020/2021",
+             "Status": "Active",
+             "LastUpdated": "7/22/2020"
+          },
+          {
+             "ShortDescription": "Influenza, injectable, MDCK, preservative free",
+             "FullVaccinename": "Influenza, injectable, Madin Darby Canine Kidney, preservative free",
+             "CVXCode": "153",
+             "Notes": "ccIIV3",
+             "Status": "Inactive",
+             "LastUpdated": "6/24/2016"
+          },
+          {
+             "ShortDescription": "Influenza, injectable, MDCK, preservative free, quadrivalent",
+             "FullVaccinename": "Influenza, injectable, Madin Darby Canine Kidney, preservative free, quadrivalent",
+             "CVXCode": "171",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "6/16/2016"
+          },
+          {
+             "ShortDescription": "Influenza, injectable, MDCK, quadrivalent, preservative",
+             "FullVaccinename": "Influenza, injectable, Madin Darby Canine Kidney,  quadrivalent with preservative",
+             "CVXCode": "186",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "6/27/2017"
+          },
+          {
+             "ShortDescription": "influenza, injectable, quadrivalent",
+             "FullVaccinename": "influenza, injectable, quadrivalent, contains preservative",
+             "CVXCode": "158",
+             "Notes": "New in 2013.  IIV4",
+             "Status": "Active",
+             "LastUpdated": "8/20/2013"
+          },
+          {
+             "ShortDescription": "influenza, injectable, quadrivalent, preservative free",
+             "FullVaccinename": "Influenza, injectable, quadrivalent, preservative free",
+             "CVXCode": "150",
+             "Notes": "New in 2012.  IIV4",
+             "Status": "Active",
+             "LastUpdated": "7/17/2013"
+          },
+          {
+             "ShortDescription": "Influenza, injectable,quadrivalent, preservative free, pediatric",
+             "FullVaccinename": "Influenza, injectable,quadrivalent, preservative free, pediatric",
+             "CVXCode": "161",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "7/23/2014"
+          },
+          {
+             "ShortDescription": "influenza, intradermal, quadrivalent, preservative free",
+             "FullVaccinename": "influenza, intradermal, quadrivalent, preservative free, injectable",
+             "CVXCode": "166",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "12/15/2014"
+          },
+          {
+             "ShortDescription": "influenza, live, intranasal",
+             "FullVaccinename": "influenza virus vaccine, live, attenuated, for intranasal use",
+             "CVXCode": "111",
+             "Notes": "LAIV3",
+             "Status": "Inactive",
+             "LastUpdated": "9/22/2014"
+          },
+          {
+             "ShortDescription": "influenza, live, intranasal, quadrivalent",
+             "FullVaccinename": "influenza, live, intranasal, quadrivalent",
+             "CVXCode": "149",
+             "Notes": "new in 2012.  LAIV4",
+             "Status": "Active",
+             "LastUpdated": "7/17/2013"
+          },
+          {
+             "ShortDescription": "influenza, recombinant, injectable, preservative free",
+             "FullVaccinename": "Seasonal, trivalent, recombinant, injectable influenza vaccine, preservative free",
+             "CVXCode": "155",
+             "Notes": "RIV",
+             "Status": "Active",
+             "LastUpdated": "7/17/2013"
+          },
+          {
+             "ShortDescription": "influenza, recombinant, quadrivalent,injectable, preservative free",
+             "FullVaccinename": "Seasonal, quadrivalent, recombinant, injectable influenza vaccine, preservative free",
+             "CVXCode": "185",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "4/21/2017"
+          },
+          {
+             "ShortDescription": "Influenza, seasonal, injectable",
+             "FullVaccinename": "Influenza, seasonal, injectable",
+             "CVXCode": "141",
+             "Notes": "IIV3. This is one of two codes replacing CVX 15, which is being retired.",
+             "Status": "Active",
+             "LastUpdated": "7/17/2013"
+          },
+          {
+             "ShortDescription": "Influenza, seasonal, injectable, preservative free",
+             "FullVaccinename": "Influenza, seasonal, injectable, preservative free",
+             "CVXCode": "140",
+             "Notes": "IIV3. This vaccine code is one of two which replace CVX 15, influenza, split virus.",
+             "Status": "Active",
+             "LastUpdated": "7/17/2013"
+          },
+          {
+             "ShortDescription": "influenza, seasonal, intradermal, preservative free",
+             "FullVaccinename": "seasonal influenza, intradermal, preservative free",
+             "CVXCode": "144",
+             "Notes": "IIV3",
+             "Status": "Active",
+             "LastUpdated": "7/17/2013"
+          },
+          {
+             "ShortDescription": "Influenza, Southern Hemisphere",
+             "FullVaccinename": "influenza, Southern Hemisphere, unspecified formulation",
+             "CVXCode": "194",
+             "Notes": "This CVX code should be used to record administration of Southern Hemisphere influenza vaccine where formulation is unknown",
+             "Status": "Inactive",
+             "LastUpdated": "7/16/2020"
+          },
+          {
+             "ShortDescription": "influenza, Southern Hemisphere, pediatric, preservative free",
+             "FullVaccinename": "influenza, seasonal, Southern Hemisphere, quadrivalent, pediatric 0.25mL dose, preservative free",
+             "CVXCode": "200",
+             "Notes": "Pediatric dose for ages 6-35 months",
+             "Status": "Active",
+             "LastUpdated": "5/6/2020"
+          },
+          {
+             "ShortDescription": "influenza, Southern Hemisphere, preservative free",
+             "FullVaccinename": "influenza, seasonal, Southern Hemisphere, quadrivalent, 0.5mL dose, no preservative",
+             "CVXCode": "201",
+             "Notes": "Represents single dose vial",
+             "Status": "Active",
+             "LastUpdated": "5/6/2020"
+          },
+          {
+             "ShortDescription": "influenza, Southern Hemisphere, quadrivalent, with preservative",
+             "FullVaccinename": "influenza, seasonal, Southern Hemisphere, quadrivalent, 0.5mL dose, with preservative",
+             "CVXCode": "202",
+             "Notes": "Represents multi-dose vial",
+             "Status": "Active",
+             "LastUpdated": "5/6/2020"
+          },
+          {
+             "ShortDescription": "influenza, split (incl. purified surface antigen)",
+             "FullVaccinename": "influenza virus vaccine, split virus (incl. purified surface antigen)-retired CODE",
+             "CVXCode": "15",
+             "Notes": "This code is being retired. It will still be found in older immunization records. It included both preservative free and non-preservative free.",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "influenza, trivalent, adjuvanted",
+             "FullVaccinename": "Seasonal trivalent influenza vaccine, adjuvanted, preservative free",
+             "CVXCode": "168",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "12/10/2015"
+          },
+          {
+             "ShortDescription": "influenza, unspecified formulation",
+             "FullVaccinename": "influenza virus vaccine, unspecified formulation",
+             "CVXCode": "88",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a Influenza vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "influenza, whole",
+             "FullVaccinename": "influenza virus vaccine, whole virus",
+             "CVXCode": "16",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "IPV",
+             "FullVaccinename": "poliovirus vaccine, inactivated",
+             "CVXCode": "10",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Japanese Encephalitis IM",
+             "FullVaccinename": "Japanese Encephalitis vaccine for intramuscular administration",
+             "CVXCode": "134",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Japanese encephalitis SC",
+             "FullVaccinename": "Japanese Encephalitis Vaccine SC",
+             "CVXCode": "39",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "9/24/2015"
+          },
+          {
+             "ShortDescription": "Japanese Encephalitis, unspecified formulation",
+             "FullVaccinename": "Japanese Encephalitis vaccine, unspecified formulation",
+             "CVXCode": "129",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a JE vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "Junin virus",
+             "FullVaccinename": "Junin virus vaccine",
+             "CVXCode": "63",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "leishmaniasis",
+             "FullVaccinename": "leishmaniasis vaccine",
+             "CVXCode": "64",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "leprosy",
+             "FullVaccinename": "leprosy vaccine",
+             "CVXCode": "65",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "Lyme disease",
+             "FullVaccinename": "Lyme disease vaccine",
+             "CVXCode": "66",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "M/R",
+             "FullVaccinename": "measles and rubella virus vaccine",
+             "CVXCode": "04",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "malaria",
+             "FullVaccinename": "malaria vaccine",
+             "CVXCode": "67",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "measles",
+             "FullVaccinename": "measles virus vaccine",
+             "CVXCode": "05",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "8/31/2010"
+          },
+          {
+             "ShortDescription": "melanoma",
+             "FullVaccinename": "melanoma vaccine",
+             "CVXCode": "68",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "meningococcal A polysaccharide (non-US)",
+             "FullVaccinename": "meningococcal A polysaccharide vaccine (non-US)",
+             "CVXCode": "191",
+             "Notes": "",
+             "Status": "Non-US",
+             "LastUpdated": "5/10/2018"
+          },
+          {
+             "ShortDescription": "meningococcal AC polysaccharide (non-US)",
+             "FullVaccinename": "meningococcal AC polysaccharide vaccine (non-US)",
+             "CVXCode": "192",
+             "Notes": "",
+             "Status": "Non-US",
+             "LastUpdated": "5/10/2018"
+          },
+          {
+             "ShortDescription": "meningococcal ACWY, unspecified formulation",
+             "FullVaccinename": "meningococcal ACWY vaccine, unspecified formulation",
+             "CVXCode": "108",
+             "Notes": "This CVX is intended for use when one of the meningococcal vaccines containing serogroups A, C, W and Y (conjugate or polysaccaride) was given and the exact formulation was not recorded. It should not be used to record newly administered immunizations. It is not to be used when one of the meningococcal vaccines containing other serogroups was administered.",
+             "Status": "Inactive",
+             "LastUpdated": "12/1/2015"
+          },
+          {
+             "ShortDescription": "meningococcal B, OMV",
+             "FullVaccinename": "meningococcal B vaccine, recombinant, OMV, adjuvanted",
+             "CVXCode": "163",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "2/2/2015"
+          },
+          {
+             "ShortDescription": "meningococcal B, recombinant",
+             "FullVaccinename": "meningococcal B vaccine, fully recombinant",
+             "CVXCode": "162",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "11/3/2014"
+          },
+          {
+             "ShortDescription": "meningococcal B, unspecified",
+             "FullVaccinename": "meningococcal B, unspecified formulation",
+             "CVXCode": "164",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "11/3/2014"
+          },
+          {
+             "ShortDescription": "meningococcal C conjugate",
+             "FullVaccinename": "meningococcal C conjugate vaccine",
+             "CVXCode": "103",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Meningococcal C/Y-HIB PRP",
+             "FullVaccinename": "Meningococcal Groups C and Y and Haemophilus b Tetanus Toxoid Conjugate Vaccine",
+             "CVXCode": "148",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/11/2018"
+          },
+          {
+             "ShortDescription": "meningococcal MCV4, unspecified formulation",
+             "FullVaccinename": "Meningococcal, MCV4, unspecified conjugate formulation(groups A, C, Y and W-135)",
+             "CVXCode": "147",
+             "Notes": "This CVX should only be used for historical doses of meningococcal conjugate vaccine where the formulation is unknown (oligosaccharide vs polysaccharide). It is not the same as CVX 108, Meningococcal, unspecified formulation. This CVX is for unspecified Meningococcal conjugate vaccines.",
+             "Status": "Inactive",
+             "LastUpdated": "2/8/2012"
+          },
+          {
+             "ShortDescription": "Meningococcal MCV4O",
+             "FullVaccinename": "meningococcal oligosaccharide (groups A, C, Y and W-135) diphtheria toxoid conjugate vaccine (MCV4O)",
+             "CVXCode": "136",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "meningococcal MCV4P",
+             "FullVaccinename": "meningococcal polysaccharide (groups A, C, Y and W-135) diphtheria toxoid conjugate vaccine (MCV4P)",
+             "CVXCode": "114",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "meningococcal MPSV4",
+             "FullVaccinename": "meningococcal polysaccharide vaccine (MPSV4)",
+             "CVXCode": "32",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "10/27/2017"
+          },
+          {
+             "ShortDescription": "meningococcal polysaccharide (groups A, C, Y, W-135) TT conjugate",
+             "FullVaccinename": "meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate vaccine .5mL dose, preservative free",
+             "CVXCode": "203",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/27/2020"
+          },
+          {
+             "ShortDescription": "meningococcal, unknown serogroups",
+             "FullVaccinename": "meningococcal vaccine of unknown formulation and unknown serogroups",
+             "CVXCode": "167",
+             "Notes": "This CVX is intended for use when any one of the meningococcal vaccines is recorded and there is no information about which serogroups are protected against. This code should not be used when a newly administered immunization is recorded.",
+             "Status": "Inactive",
+             "LastUpdated": "12/1/2015"
+          },
+          {
+             "ShortDescription": "MMR",
+             "FullVaccinename": "measles, mumps and rubella virus vaccine",
+             "CVXCode": "03",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "MMRV",
+             "FullVaccinename": "measles, mumps, rubella, and varicella virus vaccine",
+             "CVXCode": "94",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "mumps",
+             "FullVaccinename": "mumps virus vaccine",
+             "CVXCode": "07",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "6/18/2015"
+          },
+          {
+             "ShortDescription": "Novel influenza-H1N1-09",
+             "FullVaccinename": "Novel influenza-H1N1-09, injectable",
+             "CVXCode": "127",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "8/28/2010"
+          },
+          {
+             "ShortDescription": "Novel Influenza-H1N1-09, all formulations",
+             "FullVaccinename": "Novel influenza-H1N1-09, all formulations",
+             "CVXCode": "128",
+             "Notes": "This code is used whenever the actual formulation is not determined or when aggregating all Novel H1N1 Influenza-09 immunizations for reporting to CRA. It should not be used for seasonal influenza vaccine that is not otherwise specified. (NOS)",
+             "Status": "Inactive",
+             "LastUpdated": "8/28/2010"
+          },
+          {
+             "ShortDescription": "Novel Influenza-H1N1-09, nasal",
+             "FullVaccinename": "Novel Influenza-H1N1-09, live virus for nasal administration",
+             "CVXCode": "125",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "8/28/2010"
+          },
+          {
+             "ShortDescription": "Novel influenza-H1N1-09, preservative-free",
+             "FullVaccinename": "Novel influenza-H1N1-09, preservative-free, injectable",
+             "CVXCode": "126",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "8/28/2010"
+          },
+          {
+             "ShortDescription": "OPV",
+             "FullVaccinename": "trivalent poliovirus vaccine, live, oral",
+             "CVXCode": "02",
+             "Notes": "This is the OPV that was used in the US",
+             "Status": "Inactive",
+             "LastUpdated": "2/10/2017"
+          },
+          {
+             "ShortDescription": "OPV ,monovalent, unspecified",
+             "FullVaccinename": "Non-US monovalent oral polio vaccine, unspecified formulation",
+             "CVXCode": "179",
+             "Notes": "This is a non-US vaccine that may be seen in some immunization histories. It is composed of either Type 1, Type 2 or Type 3 oral polio vaccine.",
+             "Status": "Non-US",
+             "LastUpdated": "1/17/2017"
+          },
+          {
+             "ShortDescription": "OPV bivalent",
+             "FullVaccinename": "Non-US bivalent oral polio vaccine (types 1 and 3)",
+             "CVXCode": "178",
+             "Notes": "This is a non-US vaccine that may be seen in some immunization histories.",
+             "Status": "Non-US",
+             "LastUpdated": "1/17/2017"
+          },
+          {
+             "ShortDescription": "OPV, Unspecified",
+             "FullVaccinename": "Oral Polio Vaccine, Unspecified formulation",
+             "CVXCode": "182",
+             "Notes": "This code represents an oral polio vaccine where the specific formulation is unknown.",
+             "Status": "Inactive",
+             "LastUpdated": "1/17/2017"
+          },
+          {
+             "ShortDescription": "parainfluenza-3",
+             "FullVaccinename": "parainfluenza-3 virus vaccine",
+             "CVXCode": "69",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "PCV10",
+             "FullVaccinename": "pneumococcal conjugate vaccine, 10 valent",
+             "CVXCode": "177",
+             "Notes": "This is a foreign vaccine",
+             "Status": "Non-US",
+             "LastUpdated": "12/19/2016"
+          },
+          {
+             "ShortDescription": "pertussis",
+             "FullVaccinename": "pertussis vaccine",
+             "CVXCode": "11",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "plague",
+             "FullVaccinename": "plague vaccine",
+             "CVXCode": "23",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/17/2018"
+          },
+          {
+             "ShortDescription": "Pneumococcal conjugate PCV 13",
+             "FullVaccinename": "pneumococcal conjugate vaccine, 13 valent",
+             "CVXCode": "133",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "pneumococcal conjugate PCV 7",
+             "FullVaccinename": "pneumococcal conjugate vaccine, 7 valent",
+             "CVXCode": "100",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "6/26/2014"
+          },
+          {
+             "ShortDescription": "Pneumococcal conjugate PCV15, polysaccharide CRM197 conjugate, adjuvant, PF",
+             "FullVaccinename": "Pneumococcal conjugate vaccine 15-valent (PCV15), polysaccharide CRM197 conjugate, adjuvant, preservative free",
+             "CVXCode": "215",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "8/18/2021"
+          },
+          {
+             "ShortDescription": "Pneumococcal conjugate PCV20, polysaccharide CRM197 conjugate, adjuvant, PF",
+             "FullVaccinename": "Pneumococcal conjugate vaccine 20-valent (PCV20), polysaccharide CRM197 conjugate, adjuvant, preservative free",
+             "CVXCode": "216",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "8/18/2021"
+          },
+          {
+             "ShortDescription": "Pneumococcal Conjugate, unspecified formulation",
+             "FullVaccinename": "Pneumococcal Conjugate, unspecified formulation",
+             "CVXCode": "152",
+             "Notes": "This CVX should only be used for historical records where the formulation of pneumococcal conjugate vaccine is not known.",
+             "Status": "Inactive",
+             "LastUpdated": "1/28/2013"
+          },
+          {
+             "ShortDescription": "pneumococcal polysaccharide PPV23",
+             "FullVaccinename": "pneumococcal polysaccharide vaccine, 23 valent",
+             "CVXCode": "33",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "pneumococcal, unspecified formulation",
+             "FullVaccinename": "pneumococcal vaccine, unspecified formulation",
+             "CVXCode": "109",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a pneumococcal vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "polio, unspecified formulation",
+             "FullVaccinename": "poliovirus vaccine, unspecified formulation",
+             "CVXCode": "89",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a polio vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "Q fever",
+             "FullVaccinename": "Q fever vaccine",
+             "CVXCode": "70",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "Rabies - IM Diploid cell culture",
+             "FullVaccinename": "Human Rabies vaccine from human diploid cell culture",
+             "CVXCode": "175",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "10/18/2016"
+          },
+          {
+             "ShortDescription": "Rabies - IM fibroblast culture",
+             "FullVaccinename": "Human rabies vaccine from Chicken fibroblast culture",
+             "CVXCode": "176",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "10/18/2016"
+          },
+          {
+             "ShortDescription": "rabies, intradermal injection",
+             "FullVaccinename": "rabies vaccine, for intradermal injection",
+             "CVXCode": "40",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "6/18/2015"
+          },
+          {
+             "ShortDescription": "rabies, intramuscular injection",
+             "FullVaccinename": "rabies vaccine, for intramuscular injection RETIRED CODE",
+             "CVXCode": "18",
+             "Notes": "This CVX code has been retired. It is replace by CVX 175,  or CVX 176. It will continue to be found in historic records.",
+             "Status": "Inactive",
+             "LastUpdated": "10/18/2016"
+          },
+          {
+             "ShortDescription": "rabies, unspecified formulation",
+             "FullVaccinename": "rabies vaccine, unspecified formulation",
+             "CVXCode": "90",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a rabies vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "rheumatic fever",
+             "FullVaccinename": "rheumatic fever vaccine",
+             "CVXCode": "72",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "Rift Valley fever",
+             "FullVaccinename": "Rift Valley fever vaccine",
+             "CVXCode": "73",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "rotavirus, monovalent",
+             "FullVaccinename": "rotavirus, live, monovalent vaccine",
+             "CVXCode": "119",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "rotavirus, pentavalent",
+             "FullVaccinename": "rotavirus, live, pentavalent vaccine",
+             "CVXCode": "116",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "rotavirus, tetravalent",
+             "FullVaccinename": "rotavirus, live, tetravalent vaccine",
+             "CVXCode": "74",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "rotavirus, unspecified formulation",
+             "FullVaccinename": "rotavirus vaccine, unspecified formulation",
+             "CVXCode": "122",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "rubella",
+             "FullVaccinename": "rubella virus vaccine",
+             "CVXCode": "06",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "6/18/2015"
+          },
+          {
+             "ShortDescription": "rubella/mumps",
+             "FullVaccinename": "rubella and mumps virus vaccine",
+             "CVXCode": "38",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED",
+             "FullVaccinename": "SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED",
+             "CVXCode": "213",
+             "Notes": "Unspecified code for COVID-19 not to be used to record patient US administration. May be used to record historic US administration if product not known.  CVX code 500 should be used to record Non-US vaccine where product is not known.",
+             "Status": "Inactive",
+             "LastUpdated": "7/31/2021"
+          },
+          {
+             "ShortDescription": "Smallpox monkeypox vaccine (National Stockpile)",
+             "FullVaccinename": "smallpox monkeypox vaccine, live attenuated, preservative free (National Stockpile)",
+             "CVXCode": "206",
+             "Notes": "National Stockpile Only. FDA US Licensed products JYNNEOS (also brandnames IMVAMUNE, IMVANEX)",
+             "Status": "Active",
+             "LastUpdated": "7/20/2020"
+          },
+          {
+             "ShortDescription": "Td (adult)",
+             "FullVaccinename": "tetanus and diphtheria toxoids, not adsorbed, for adult use",
+             "CVXCode": "138",
+             "Notes": "Note that this Td is not adsorbed.",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "Td (adult), 2 Lf tetanus toxoid, preservative free, adsorbed",
+             "FullVaccinename": "tetanus and diphtheria toxoids, adsorbed, preservative free, for adult use (2 Lf of tetanus toxoid and 2 Lf of diphtheria toxoid)",
+             "CVXCode": "09",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "10/27/2017"
+          },
+          {
+             "ShortDescription": "Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed",
+             "FullVaccinename": "tetanus and diphtheria toxoids, adsorbed, preservative free, for adult use (5 Lf of tetanus toxoid and 2 Lf of diphtheria toxoid)",
+             "CVXCode": "113",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "10/27/2017"
+          },
+          {
+             "ShortDescription": "Td(adult) unspecified formulation",
+             "FullVaccinename": "Td(adult) unspecified formulation",
+             "CVXCode": "139",
+             "Notes": "This CVX code allows reporting of a historic vaccination when the formulation is unknown (for example, when recording a Td vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "8/27/2019"
+          },
+          {
+             "ShortDescription": "Td, adsorbed, preservative free, adult use, Lf unspecified",
+             "FullVaccinename": "tetanus and diphtheria toxoids, adsorbed, preservative free, for adult use, Lf unspecified",
+             "CVXCode": "196",
+             "Notes": "Used when Td Lf specification is unknown",
+             "Status": "Active",
+             "LastUpdated": "8/15/2019"
+          },
+          {
+             "ShortDescription": "Tdap",
+             "FullVaccinename": "tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine, adsorbed",
+             "CVXCode": "115",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "tetanus toxoid, adsorbed",
+             "FullVaccinename": "tetanus toxoid, adsorbed",
+             "CVXCode": "35",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "8/14/2015"
+          },
+          {
+             "ShortDescription": "tetanus toxoid, not adsorbed",
+             "FullVaccinename": "tetanus toxoid, not adsorbed",
+             "CVXCode": "142",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "8/14/2015"
+          },
+          {
+             "ShortDescription": "tetanus toxoid, unspecified formulation",
+             "FullVaccinename": "tetanus toxoid, unspecified formulation",
+             "CVXCode": "112",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "tick-borne encephalitis",
+             "FullVaccinename": "tick-borne encephalitis vaccine",
+             "CVXCode": "77",
+             "Notes": "",
+             "Status": "Non-US",
+             "LastUpdated": "10/27/2017"
+          },
+          {
+             "ShortDescription": "tularemia vaccine",
+             "FullVaccinename": "tularemia vaccine",
+             "CVXCode": "78",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "Typhoid conjugate vaccine (TCV)",
+             "FullVaccinename": "Typhoid conjugate vaccine (non-US)",
+             "CVXCode": "190",
+             "Notes": "",
+             "Status": "Non-US",
+             "LastUpdated": "7/23/2021"
+          },
+          {
+             "ShortDescription": "typhoid, oral",
+             "FullVaccinename": "typhoid vaccine, live, oral",
+             "CVXCode": "25",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "typhoid, parenteral",
+             "FullVaccinename": "typhoid vaccine, parenteral, other than acetone-killed, dried",
+             "CVXCode": "41",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "8/13/2015"
+          },
+          {
+             "ShortDescription": "typhoid, parenteral, AKD (U.S. military)",
+             "FullVaccinename": "typhoid vaccine, parenteral, acetone-killed, dried (U.S. military)",
+             "CVXCode": "53",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "6/18/2015"
+          },
+          {
+             "ShortDescription": "typhoid, unspecified formulation",
+             "FullVaccinename": "typhoid vaccine, unspecified formulation",
+             "CVXCode": "91",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a typhoid vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "typhoid, ViCPs",
+             "FullVaccinename": "typhoid Vi capsular polysaccharide vaccine",
+             "CVXCode": "101",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "typhus, historical",
+             "FullVaccinename": "Historical record of a typhus vaccination",
+             "CVXCode": "131",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "vaccinia (smallpox)",
+             "FullVaccinename": "vaccinia (smallpox) vaccine",
+             "CVXCode": "75",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "vaccinia (smallpox) diluted",
+             "FullVaccinename": "vaccinia (smallpox) vaccine, diluted",
+             "CVXCode": "105",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "varicella",
+             "FullVaccinename": "varicella virus vaccine",
+             "CVXCode": "21",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "VEE, inactivated",
+             "FullVaccinename": "Venezuelan equine encephalitis, inactivated",
+             "CVXCode": "81",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "VEE, live",
+             "FullVaccinename": "Venezuelan equine encephalitis, live, attenuated",
+             "CVXCode": "80",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "VEE, unspecified formulation",
+             "FullVaccinename": "Venezuelan equine encephalitis vaccine, unspecified formulation",
+             "CVXCode": "92",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a VEE vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "9/30/2010"
+          },
+          {
+             "ShortDescription": "yellow fever",
+             "FullVaccinename": "yellow fever vaccine",
+             "CVXCode": "37",
+             "Notes": "This is the YF vaccine that has been available in the US for years. It is stabilized with sorbitol and gelatin.",
+             "Status": "Active",
+             "LastUpdated": "3/2/2017"
+          },
+          {
+             "ShortDescription": "Yellow fever vaccine - alt",
+             "FullVaccinename": "Yellow fever vaccine alternative formulation",
+             "CVXCode": "183",
+             "Notes": "This vaccine is stabilized with sorbitol and lactose and has been used outside the US for some time. It will be made available in the US.",
+             "Status": "Active",
+             "LastUpdated": "3/2/2017"
+          },
+          {
+             "ShortDescription": "Yellow fever, unspecified formulation",
+             "FullVaccinename": "Yellow fever vaccine, unspecified formulation",
+             "CVXCode": "184",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "3/2/2017"
+          },
+          {
+             "ShortDescription": "zoster live",
+             "FullVaccinename": "zoster vaccine, live",
+             "CVXCode": "121",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "zoster recombinant",
+             "FullVaccinename": "zoster vaccine recombinant",
+             "CVXCode": "187",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "10/27/2017"
+          },
+          {
+             "ShortDescription": "zoster, unspecified formulation",
+             "FullVaccinename": "zoster vaccine, unspecified formulation",
+             "CVXCode": "188",
+             "Notes": "This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a zoster vaccination when noted on a vaccination card)",
+             "Status": "Inactive",
+             "LastUpdated": "10/27/2017"
+          },
+          {
+             "ShortDescription": "anthrax immune globulin",
+             "FullVaccinename": "anthrax immune globulin",
+             "CVXCode": "181",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "AS03 Adjuvant",
+             "FullVaccinename": "AS03 Adjuvant",
+             "CVXCode": "801",
+             "Notes": "This is the adjuvant that is packaged with H5N1 vaccine, adjuvanted",
+             "Status": "Active",
+             "LastUpdated": "10/27/2020"
+          },
+          {
+             "ShortDescription": "botulinum antitoxin",
+             "FullVaccinename": "botulinum antitoxin",
+             "CVXCode": "27",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "CMVIG",
+             "FullVaccinename": "cytomegalovirus immune globulin, intravenous",
+             "CVXCode": "29",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "diphtheria antitoxin",
+             "FullVaccinename": "diphtheria antitoxin",
+             "CVXCode": "12",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "HBIG",
+             "FullVaccinename": "hepatitis B immune globulin",
+             "CVXCode": "30",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "Hep A, IG",
+             "FullVaccinename": "Hepatitis A immune globulin",
+             "CVXCode": "154",
+             "Notes": "Do not use this code. This product may be used for Hep A and other viral infections. The correct vaccine / CVX is 86 (IG).",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "IG",
+             "FullVaccinename": "immune globulin, intramuscular",
+             "CVXCode": "86",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "IG, unspecified formulation",
+             "FullVaccinename": "immune globulin, unspecified formulation",
+             "CVXCode": "14",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "IGIV",
+             "FullVaccinename": "immune globulin, intravenous",
+             "CVXCode": "87",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "no vaccine administered",
+             "FullVaccinename": "no vaccine administered",
+             "CVXCode": "998",
+             "Notes": "Code 998 was added for use in VXU HL7 messages where the OBX segment is nested with the RXA segment, but the message does not contain information about a vaccine administration. An example of this use is to report the vaccines due next for a patient when no vaccine administration is being reported.",
+             "Status": "Inactive",
+             "LastUpdated": "5/28/2010"
+          },
+          {
+             "ShortDescription": "RESERVED - do not use",
+             "FullVaccinename": "RESERVED - do not use",
+             "CVXCode": "99",
+             "Notes": "Code 99 will not be used in this table to avoid confusion with code 999.",
+             "Status": "Inactive",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "Rho(D) - Unspecified formulation",
+             "FullVaccinename": "Rho(D) Unspecified formulation",
+             "CVXCode": "159",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "Rho(D) -IG IM",
+             "FullVaccinename": "Rho(D) Immune globulin - IM",
+             "CVXCode": "157",
+             "Notes": "This immune globulin may be administered IM only.",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "Rho(D)-IG",
+             "FullVaccinename": "Rho(D) Immune globulin- IV or IM",
+             "CVXCode": "156",
+             "Notes": "This immune globulin may be administered either IM or IV.",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "RIG",
+             "FullVaccinename": "rabies immune globulin",
+             "CVXCode": "34",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "RSV-IGIV",
+             "FullVaccinename": "respiratory syncytial virus immune globulin, intravenous",
+             "CVXCode": "71",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "RSV-MAb",
+             "FullVaccinename": "respiratory syncytial virus monoclonal antibody (palivizumab), intramuscular",
+             "CVXCode": "93",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "RSV-MAb (new)",
+             "FullVaccinename": "respiratory syncytial virus monoclonal antibody (motavizumab), intramuscular",
+             "CVXCode": "145",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "Staphylococcus bacterio lysate",
+             "FullVaccinename": "Staphylococcus bacteriophage lysate",
+             "CVXCode": "76",
+             "Notes": "",
+             "Status": "Inactive",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "tetanus immune globulin",
+             "FullVaccinename": "tetanus immune globulin",
+             "CVXCode": "180",
+             "Notes": "This record duplicates CVX 13 (TIG). Do not use CVX 180.",
+             "Status": "Inactive",
+             "LastUpdated": "9/9/2020"
+          },
+          {
+             "ShortDescription": "TIG",
+             "FullVaccinename": "tetanus immune globulin",
+             "CVXCode": "13",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "TST, unspecified formulation",
+             "FullVaccinename": "tuberculin skin test; unspecified formulation",
+             "CVXCode": "98",
+             "Notes": "TB Skin test is not vaccine.",
+             "Status": "Inactive",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "TST-OT tine test",
+             "FullVaccinename": "tuberculin skin test; old tuberculin, multipuncture device",
+             "CVXCode": "95",
+             "Notes": "TB Skin test is not vaccine.",
+             "Status": "Inactive",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "TST-PPD intradermal",
+             "FullVaccinename": "tuberculin skin test; purified protein derivative solution, intradermal",
+             "CVXCode": "96",
+             "Notes": "TB Skin test is not vaccine.",
+             "Status": "Inactive",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "TST-PPD tine test",
+             "FullVaccinename": "tuberculin skin test; purified protein derivative, multipuncture device",
+             "CVXCode": "97",
+             "Notes": "TB Skin test is not vaccine.",
+             "Status": "Inactive",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "unknown",
+             "FullVaccinename": "unknown vaccine or immune globulin",
+             "CVXCode": "999",
+             "Notes": "This CVX code has little utility and should rarely be used.",
+             "Status": "Inactive",
+             "LastUpdated": "10/27/2020"
+          },
+          {
+             "ShortDescription": "vaccinia immune globulin",
+             "FullVaccinename": "vaccinia immune globulin",
+             "CVXCode": "79",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "VZIG",
+             "FullVaccinename": "varicella zoster immune globulin",
+             "CVXCode": "36",
+             "Notes": "",
+             "Status": "Active",
+             "LastUpdated": "9/4/2020"
+          },
+          {
+             "ShortDescription": "VZIG (IND)",
+             "FullVaccinename": "varicella zoster immune globulin (Investigational New Drug)",
+             "CVXCode": "117",
+             "Notes": "",
+             "Status": "Never Active",
+             "LastUpdated": "9/9/2020"
+          }
+       ]
+ 
